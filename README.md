@@ -21,3 +21,4 @@ Smart Solutions for railways is designed to reduced the work load of the user an
 
 # Technical Architecture:
 
+![Technical Architecture](https://user-images.githubusercontent.com/113768231/201516197-27e31c7d-d1ee-47fe-b3e7-b5378dcb829c.png)
